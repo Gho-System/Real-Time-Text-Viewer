@@ -12,7 +12,6 @@
 
 よろしくお願いします！
 
-
 ## ver 0.1
 
 electronに移行してみました。
@@ -27,4 +26,3 @@ You can build node_modules dir by npm install command. Then you can start progra
 見た目重視でframelessにしてみたけどバグが目立つなあ。次はいつになるかわかりませんが、frameをtrueにして設定Windowを作ろうと思っています。
 
 よろしくお願いします！
-
