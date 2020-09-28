@@ -1,6 +1,6 @@
 # Real-Time-Text-Viewer
 
-##ver 0.0
+## ver 0.0
 
 こんにちは、Ghoと申します。
 
@@ -12,7 +12,7 @@
 
 よろしくお願いします！
 
-##ver 0.1
+## ver 0.1
 
 electronに移行してみました。
 
